@@ -29,7 +29,7 @@ img {
 
 /* NAVIGATION */
 
-.site-nav {
+/* .site-nav {
   display: flex;
 }
 
@@ -48,6 +48,30 @@ img {
   list-style: none;
   margin: 0;
   padding: 0;
+} */
+
+/* Custom Nav */
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .5em;
+  background-color: var(--white);
+  border-bottom: 1px solid var(--stroke);
+  padding: 8px 0;
+}
+
+nav a {
+  padding: 8px 12px;
+  border-radius: 50px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--kinda-grey);
+}
+
+nav a.active {
+  background-color: #f2f2f2;
+  color: var(--black);
 }
 
 @media screen and (max-width: 48rem) {
