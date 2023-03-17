@@ -4,17 +4,17 @@ title = "My New Hugo Site"
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts"
+    pageref = "/posts"
     weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about"
+    pageref = "/about"
     weight = 20
     
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    pageref = "/"
     weight = 1
