@@ -1,24 +1,24 @@
 {{ partial "header.html" . }}
 
 <div class="container">
-    <div class="hero">
+    <div class="hero home-hero">
         <h1>{{ .Params.title }}</h1>
         <p>{{ .Params.blurb }}</p>
     </div>
     <!-- here comes the blogs section -->
 </div>
 
-<main>
+<!-- <main>
     <h2>{{ .Params.section.heading }}</h2>
     <p>{{ .Params.section.text }}</p>
-</main>
+</main> -->
 
-{{- range ( where site.RegularPages "Section" "blog" | first 3 ) }}
-
-show blogs
-
-{{- end }}
-
-
-
-<!-- {{ partial "footer.html" . }} -->
+<div class="recent-blogs l-width">
+    {{- range ( where site.RegularPages "Section" "posts" | first 4 ) }}
+    <article class="post-snippet">
+        <h2>{{ .Title }}</h2>
+        <span>{{ .Content }}</span>
+        <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
+    </article>
+    {{- end }}
+</div>

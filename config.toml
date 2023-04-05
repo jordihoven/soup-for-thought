@@ -1,9 +1,9 @@
-title = "My New Hugo Site"
+title = "Soup for thought"
 
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Blogs"
     pageref = "/posts"
     weight = 10
 

@@ -80,26 +80,30 @@ nav a.active {
   display: flex;
   flex-direction: column;
   gap: .5rem;
-
   background-color: #ffffff;
-  padding: 12px 16px;
+  padding: 16px;
   border-radius: 12px;
   border: 1px solid #e4e4e4;
 }
 
-.post-snippet h3 {
+.post-snippet h3, .post-snippet h2{
   margin: 0;
   font-family: 'DM Serif Display', serif;
 }
 
-.post-snippet time {
+.post-snippet p {
+  margin: 0;
   color: #646464;
   font-size: 16px;
 }
 
+.post-snippet .btn {
+  margin-top: 16px;
+}
+
 /* HERO */
 .hero {
-  background-image: url(https://picsum.photos/id/1/200/300);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),url(https://picsum.photos/id/13/2500/1667);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -110,10 +114,16 @@ nav a.active {
   height: 20rem;
   background-color: #f2f2f2;
   margin-bottom: 2rem;
+  padding: 0 16px;
+}
+
+.home-hero {
+  height: 40rem;
 }
 
 .hero h1, .hero h2, .hero p {
   font-family: 'DM Serif Display', serif;
+  color: white;
 }
 
 .btn, button {
@@ -122,6 +132,79 @@ nav a.active {
   color: #000000;
   border-radius: 50px;
   font-size: 14px;
-  padding: 8px 12px;
+  padding: 8px 16px;
   width: fit-content;
+  transition: .3s all ease-in-out;
+}
+
+.btn:hover, button:hover {
+  filter: brightness(95%);
+  cursor: pointer;
+}
+
+/* Blogs page */
+
+.blogs-wrapper {
+  /* styles for all blog elements... */
+  padding: 40px 0;
+}
+
+.blogs-wrapper h1 {
+  font-family: 'DM Serif Display', serif;
+}
+
+.blogs-wrapper p {
+  color: #646464;
+  line-height: 1.5;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+/* size classes for blog elements */
+.xl-width {
+  max-width: 1560px;
+  margin: 0 auto;
+}
+
+.l-width {
+  max-width: 996px;
+  margin: 0 auto;
+}
+
+.m-width {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .blogs-wrapper {
+    padding: 40px 16px;
+  }
+}
+
+/* Recent blogs section @ homepage */ 
+
+.recent-blogs {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit,minmax(10rem, 1fr));
+  grid-auto-rows: auto;
+  gap: 1rem;
+  margin-bottom: 40px;
+}
+
+.recent-blogs .recent-blog-card {
+  border: 1px solid #e4e4e4;
+  border-radius: 12px;
+  background-color: white;
+  padding: 12px 16px;
+  transition: all .3s ease-in-out;
+}
+
+.recent-blogs .recent-blog-card:hover {
+  cursor: pointer;
+  transform: translateY(-2px);
 }

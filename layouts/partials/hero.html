@@ -1,1 +1,7 @@
-this is the hero with an image and text
+{{ range .Site.Pages }}
+    <article class="post-snippet">
+      <h2>{{ .Title }}</h2>
+      <span>{{ .Content }}</span>
+      <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
+    </article>
+{{ end }}
