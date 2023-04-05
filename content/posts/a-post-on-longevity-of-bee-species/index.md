@@ -5,8 +5,6 @@ image: 800px-punishment-sisyph.jpg-large.jpg
 ---
 Bears, beets, battlestar galactica.
 
-
-
 H﻿ere's an image i added trough markdown:
 
 ![](avatar.jpg)
