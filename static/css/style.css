@@ -208,3 +208,10 @@ nav a.active {
   cursor: pointer;
   transform: translateY(-2px);
 }
+
+.featured-image {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}

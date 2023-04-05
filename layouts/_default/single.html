@@ -4,9 +4,11 @@
 	
 	<span class="post-date m-width">{{ .Date.Format "January 2, 2006" }}</span>
 	
-	{{ if .Params.image }}
-		<img class="xl-width" src="{{ .Params.image }}" >
-	{{ end }}
+	<div class="featured-image">
+		{{ if .Params.image }}
+		<img class="" src="{{ .Params.image }}" >
+		{{ end }}
+	</div>
 
 	<div class="m-width">
 		{{ .Content }}

@@ -19,9 +19,9 @@
     <article class="post-snippet">
         <h2>{{ .Title }}</h2>
 
-        {{ with .Params.image }}
-        <img src="{{ . }}" alt="{{ . }}" />
-        {{ end }}
+        <!-- {{ with .Params.image }}
+        <img src="/posts/{{ . }}" alt="{{ . }}" />
+        {{ end }} -->
 
         <span>{{ .Content }}</span>
         <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
