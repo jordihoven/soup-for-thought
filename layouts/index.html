@@ -13,10 +13,16 @@
     <p>{{ .Params.section.text }}</p>
 </main> -->
 
+
 <div class="recent-blogs l-width">
     {{- range ( where site.RegularPages "Section" "posts" | first 4 ) }}
     <article class="post-snippet">
         <h2>{{ .Title }}</h2>
+
+        {{ with .Params.image }}
+        <img src="{{ . }}" alt="{{ . }}" />
+        {{ end }}
+
         <span>{{ .Content }}</span>
         <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
     </article>
