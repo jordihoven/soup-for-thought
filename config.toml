@@ -1,8 +1,5 @@
 title = "Soup for thought"
 
-baseURL = "https://soupforthoughtdev.netlify.app/"
-relativeURLs = true
-
 [menu]
   [[menu.main]]
     identifier = "posts"
