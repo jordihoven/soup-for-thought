@@ -7,17 +7,17 @@ relativeURLs = true
   [[menu.main]]
     identifier = "posts"
     name = "Blogs"
-    pageref = "/posts"
+    url = "/posts"
     weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    pageref = "/about"
+    url = "/about"
     weight = 20
     
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    pageref = "/"
+    url = "/"
     weight = 1
