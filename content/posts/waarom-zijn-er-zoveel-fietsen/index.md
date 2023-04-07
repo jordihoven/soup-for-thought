@@ -1,7 +1,8 @@
 ---
 title: Waarom zijn er zoveel fietsen
+summary: Dit is een rant over de hoeveelheid fietsen lol
 date: 2023-04-05T14:04:46.606Z
-image: p1010906.jpg
+image: waarom-zijn-er-zoveel-fietsen.jpg
 ---
 **S﻿wapfietsen,** 
 
