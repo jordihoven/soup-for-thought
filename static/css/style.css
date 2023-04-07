@@ -38,6 +38,9 @@ main {
 
 img {
   max-width: 100%;
+  border-radius: 12px;
+  object-fit: fill;
+  height: 15rem;
 }
 
 /* NAVIGATION */
@@ -84,6 +87,7 @@ nav a.active {
   padding: 16px;
   border-radius: 12px;
   border: 1px solid #e4e4e4;
+  height: calc(100% - 32px);
 }
 
 .post-snippet h3, .post-snippet h2{
@@ -191,7 +195,7 @@ nav a.active {
   justify-content: center;
   align-items: center;
   grid-template-columns: repeat(auto-fit,minmax(10rem, 1fr));
-  grid-auto-rows: auto;
+  grid-auto-rows: 1fr;
   gap: 1rem;
   margin-bottom: 40px;
 }

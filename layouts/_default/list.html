@@ -8,8 +8,12 @@
   <div class="posts-grid">
     {{ range .Pages }}
     <article class="post-snippet">
+      {{ if .Params.Image }}
+      <img src="{{ .Title | urlize }}/{{ .Title | urlize }}.jpg" alt="{{ .Title }}" />
+      {{ end }}
       <h2>{{ .Title }}</h2>
-      <span>{{ .Content }}</span>
+      <p>{{ .Summary }}</p>
+
       <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
     </article>
     {{ end }}

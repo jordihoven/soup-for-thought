@@ -17,13 +17,11 @@
 <div class="recent-blogs l-width">
     {{- range ( where site.RegularPages "Section" "posts" | first 4 ) }}
     <article class="post-snippet">
+        {{ if .Params.Image }}
+        <img src="posts/{{ .Title | urlize }}/{{ .Title | urlize }}.jpg" alt="{{ .Title }}" />
+        {{ end }}
         <h2>{{ .Title }}</h2>
-
-        <!-- {{ with .Params.image }}
-        <img src="/posts/{{ . }}" alt="{{ . }}" />
-        {{ end }} -->
-
-        <span>{{ .Content }}</span>
+        <p>{{ .Summary }}</p>
         <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
     </article>
     {{- end }}
