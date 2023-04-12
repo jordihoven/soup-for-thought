@@ -1,16 +1,17 @@
 title = "Soup for thought"
+baseURL = "https://soupforthoughtdev.netlify.app"
 
 [menu]
   [[menu.main]]
     identifier = "posts"
     name = "Blogs"
-    url = "/posts"
+    url = "/posts/"
     weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 20
     
   [[menu.main]]

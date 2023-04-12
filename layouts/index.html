@@ -5,22 +5,15 @@
         <h1>{{ .Params.title }}</h1>
         <p>{{ .Params.blurb }}</p>
     </div>
-    <!-- here comes the blogs section -->
 </div>
 
-<!-- <main>
-    <h2>{{ .Params.section.heading }}</h2>
-    <p>{{ .Params.section.text }}</p>
-</main> -->
-
-
 <div class="recent-blogs l-width">
-    {{- range ( where site.RegularPages "Section" "posts" | first 4 ) }}
+    {{- range ( where site.RegularPages "Section" "posts" | first 3 ) }}
     <article class="post-snippet">
         {{ if .Params.Image }}
         <img src="posts/{{ .Title | urlize }}/{{ .Title | urlize }}.jpg" alt="{{ .Title }}" />
         {{ end }}
-        <h2>{{ .Title }}</h2>
+        <h3>{{ .Title }}</h3>
         <p>{{ .Summary }}</p>
         <a class="btn" href="{{ .RelPermalink }}">Lees meer</a>
     </article>
