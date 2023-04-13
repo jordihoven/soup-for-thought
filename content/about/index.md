@@ -9,8 +9,6 @@ Mijn interesse in gedachten, gevoel, en gedrag bracht me tot het volgen van een 
 
 Door de jaren heen heb ik veel verschillende gedachten gehoord, gevoelens ervaren en gedragingen gezien. Ik heb in de huid van anderen mogen kruipen en ook mijn eigen belevingswereld kunnen ontdekken. Deze ervaringen heb ik veelal opgeschreven of opgenomen en wil ik nu graag met andere delen. 
 
-Het uiteindelijke doel van het delen van deze content is enerzijds zelfzuchtig: ik geniet van het schrijfproces en kan er mijn gedachten mee ordenen. Anderzijds hoop ik dat de content anderen wellicht kan helpen. 
-
-Ik geloof dat het gezond is om ‘diepe’ gesprekken te voeren met anderen: Het kan voor zelfinzicht zorgen, kan een gevoel van eenzaamheid verminderen én het kan er voor zorgen dat je je medemens beter begrijpt (en wellicht gemakkelijker compassie kan voelen). Hoewel ik je wil aansporen om zélf diepe gesprekken te voeren, kan de content wellicht tot opstapje of inspiratiebron hiertoe dienen.  
+Ik geloof dat het gezond is om ‘diepe’ gesprekken te voeren met anderen: Het kan voor zelfinzicht zorgen, kan een gevoel van eenzaamheid verminderen én het kan er voor zorgen dat je je medemens beter begrijpt (en wellicht gemakkelijker compassie kan voelen). Het doel van het delen van deze content is anderen te laten meegenieten van deze positieve effecten. Hoewel ik je wil aansporen om zélf diepe gesprekken te voeren, kan de content wellicht tot opstapje of inspiratiebron dienen.  
 
 Ik hoop dat je je herkend in verhalen, het je stof tot denken geeft of je perspectief verbreed! 
