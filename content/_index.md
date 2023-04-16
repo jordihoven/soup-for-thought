@@ -1,6 +1,6 @@
 ---
 title: Nicole Gordon
-blurb: over gedachten, gevoel en gedrag
+blurb: "- demo versie - "
 section:
   heading: A Subsection
   text: You can put even more content in here.
