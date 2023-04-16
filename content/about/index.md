@@ -7,8 +7,8 @@ Hoewel ik al een aantal jaar geen actrice meer wil worden, geloof ik dat deze we
 
 Mijn interesse in gedachten, gevoel, en gedrag bracht me tot het volgen van een bachelor- en masteropleiding klinische psychologie, werken in de zorg en het maken van solo-reizen over de wereld. Ik sprak mensen van uiteenlopende leeftijden en achtergronden en zag na verloop van tijd een grote overlap in thema’s die ons allen bezighouden. De zaken waar iemand uit een compleet ander milieu uit de andere kant van de wereld mee bezig is, kunnen hetzelfde zijn als die van jou, of mij. 
 
-Door de jaren heen heb ik veel verschillende gedachten gehoord, gevoelens ervaren en gedragingen gezien. Ik heb de levensverhalen van anderen mogen bestuderen en mijn eigen belevingswereld kunnen ontdekken. Deze ervaringen heb ik veelal (anoniem) opgeschreven of opgenomen en wil ik nu graag met andere delen. 
+Door de jaren heen heb ik veel verschillende gedachten gehoord, gevoelens ervaren en gedragingen gezien. Ik heb de levensverhalen van anderen mogen bestuderen en mijn eigen belevingswereld kunnen ontdekken. Ik geloof dat het gezond is om dit soort ‘diepe’ gesprekken te voeren met anderen: Het kan voor zelfinzicht zorgen, kan een gevoel van eenzaamheid verminderen én het kan er voor zorgen dat je je medemens beter begrijpt (en wellicht gemakkelijker compassie kan voelen). Maar, niet iedereen vind het even gemakkelijk zo'n type gesprek te starten. 
 
-Ik geloof dat het gezond is om ‘diepe’ gesprekken te voeren met anderen: Het kan voor zelfinzicht zorgen, kan een gevoel van eenzaamheid verminderen én het kan er voor zorgen dat je je medemens beter begrijpt (en wellicht gemakkelijker compassie kan voelen). Het doel van het delen van deze content is anderen te laten meegenieten van deze positieve effecten. Hoewel ik je wil aansporen om zélf diepe gesprekken te voeren, kan de content wellicht tot opstapje of inspiratiebron dienen.  
+Het doel van deze website is de denkbeelden van mensen te delen. Ik hoop dat je geniet van de verhalen, je jezelf herkent in andermans woorden, het je perspectief wellicht wat verbreed óf de verhalen je aansporen om zélf diepere gesprekken te voeren.
 
-Ik hoop dat je je herkend in verhalen, het je stof tot denken geeft of je perspectief verbreed! 
+Veel leesplezier :)
